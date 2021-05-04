@@ -1,4 +1,4 @@
-👋 Hi, I’m @continentaL27
+😉
 
 <!-- 👋 Hi, I’m @continentaL27
 - 👀 I’m interested in ...
