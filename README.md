@@ -1,10 +1,9 @@
 😉
 
-<!-- 👋 Hi, I’m @continentaL27
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m Dima
+- 👀 I’m interested in distributed systems, backend, highload
+- 🌱 I’m currently learning Spring Security, Cloud
+<!--- 📫 How to reach me 
 --->
 <!---
 continentaL27/continentaL27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
