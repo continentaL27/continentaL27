@@ -1,6 +1,7 @@
 👋 Hi, I’m Dima
 - 👀 I’m interested in distributed systems, backend, highload
 - 🌱 I’m currently learning Spring Security, Cloud
+- :computer: I’m searching for Jr Java Developer job
 <!--- 📫 How to reach me 
 --->
 <!---
